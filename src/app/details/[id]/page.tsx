@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
-import FoodCart from "../../../../public/food-cart.svg"
-import FoodTruck from "../../../../public/food-truck.svg"
+import FoodCart from "../../../../public/food-cart.svg";
+import FoodTruck from "../../../../public/food-truck.svg";
 
 
 async function getTruckDetails(objectid) {
